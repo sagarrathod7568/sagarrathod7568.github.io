@@ -1,0 +1,31 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://www.infosys.com/",
+      "company": "Infosys",
+      "location": "Pune - Maharashtra",
+      "title": "System Engineer",
+      "dateFrom": "Feb 2022",
+      "dateTo": "Nov 2022",
+      "info": [
+        "Developed and integrated front-end components using modern frameworks, enhancing user experience.",
+        "Collaborated with cross-functional teams to deliver efficient and scalable software solutions.",
+        "Completed comprehensive HTML-CSS, Java, JS, and React training, applying knowledge to project tasks and supporting backend needs."
+      ],
+      "stack": [
+        "HTML",
+        "CSS",
+        "Java",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Firebase",
+        "TIBCO"
+      ],
+      "logowidth": 75,
+      "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
+    }
+  ]
+}

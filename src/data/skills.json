@@ -1,0 +1,120 @@
+{
+  "skills": [
+    {
+      "skillName": "HTML",
+      "class": "devicon-html5-plain"
+    },
+    {
+      "skillName": "CSS",
+      "class": "devicon-css3-plain"
+    },
+    {
+      "skillName": "Java",
+      "class": "devicon-java-plain"
+    },
+    {
+      "skillName": "JavaScript",
+      "class": "devicon-javascript-plain"
+    },
+    {
+      "skillName": "React",
+      "class": "devicon-react-original"
+    },
+
+    {
+      "skillName": "Express",
+      "class": "devicon-express-original"
+    },
+    {
+      "skillName": "Node JS",
+      "class": "devicon-nodejs-plain-wordmark"
+    },
+
+    {
+      "skillName": "Bootstrap",
+      "class": "devicon-bootstrap-plain"
+    },
+    {
+      "skillName": "Tailwindcss",
+      "class": "devicon-tailwindcss-original"
+    },
+    {
+      "skillName": "Sass",
+      "class": "devicon-sass-original"
+    },
+    {
+      "skillName": "Axios",
+      "class": "devicon-axios-plain-wordmark"
+    },
+
+    {
+      "skillName": "Firebase",
+      "class": "devicon-firebase-plain"
+    },
+
+    {
+      "skillName": "mongoDB",
+      "class": "devicon-mongodb-plain"
+    },
+    {
+      "skillName": "SQL",
+      "class": "devicon-azuresqldatabase-plain"
+    },
+    {
+      "skillName": "MySql",
+      "class": "devicon-mysql-plain"
+    },
+
+    {
+      "skillName": "Github",
+      "class": "devicon-github-original"
+    },
+
+    {
+      "skillName": "VS Code",
+      "class": "devicon-vscode-plain"
+    },
+    {
+      "skillName": "Github + VS",
+      "class": "devicon-githubcodespaces-plain"
+    },
+    {
+      "skillName": "Vite App",
+      "class": "devicon-vitejs-plain"
+    },
+    {
+      "skillName": "Figma",
+      "class": "devicon-figma-plain"
+    },
+
+    {
+      "skillName": "GCD",
+      "class": "devicon-googlecloud-plain"
+    },
+    {
+      "skillName": "AWS",
+      "class": "devicon-amazonwebservices-plain-wordmark"
+    },
+    {
+      "skillName": "NPM",
+      "class": "devicon-npm-original-wordmark"
+    },
+    {
+      "skillName": "Bash",
+      "class": "devicon-bash-plain"
+    },
+    {
+      "skillName": "Powershell",
+      "class": "devicon-powershell-plain"
+    },
+
+    {
+      "skillName": "Vercel",
+      "class": "devicon-vercel-original"
+    },
+    {
+      "skillName": "Netlify",
+      "class": "devicon-netlify-plain"
+    }
+  ]
+}

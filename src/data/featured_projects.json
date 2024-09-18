@@ -1,0 +1,120 @@
+{
+  "featured_projects": [
+    {
+      "name": "Health and Wellness",
+      "link": "https://pixel-pole-vault-040.vercel.app/",
+      "link2": "https://github.com/sagarrathod7568/Health-and-Wellness-App",
+      "description": "Developed User Authentication System: Implemented secure login and signup functionality using Firebase Authentication, ensuring user data protection with bcrypt and JWT. Designed and Integrated Responsive UI: Crafted a user-friendly interface with Bootstrap, ensuring the platform's responsiveness across various devices and screen sizes. Managed User Credential Handling: Efficiently handled user registration and authentication processes, including password hashing and verification.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        {
+          "name": "HTML-CSS",
+          "color": "#fc2779"
+        },
+        {
+          "name": "React",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Firebase",
+          "color": "#ff7718"
+        },
+        {
+          "name": "Bootstrap",
+          "color": "#764abc"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Weekend Planning",
+      "link": "https://weekend-planning.netlify.app/",
+      "link2": "https://github.com/vaibhav540/Democracy-Data_035",
+      "description": "Developed an innovative weekend planning app that simplifies group scheduling, integrates Google Calendar for seamless coordination, and provides activity suggestions using a graph data structure based on user preferences and location. Designed and implemented a social-driven platform featuring user polls, voting for activities, and notification management, enabling friends to efficiently plan weekends while fostering new social connections through shared interests. Built a full-stack solution for weekend planning with Firebase/Supabase authentication, admin dashboards for event analytics, user management, and an engaging social feature to connect users for larger group activities.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "HTML-CSS",
+          "color": "#fc2779"
+        },
+        {
+          "name": "React",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Bootstrap",
+          "color": "#764abc"
+        },
+        {
+          "name": "Chakra-UI",
+          "color": "#c6f6d5"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Melodify Music Streaming ",
+      "link": "https://uber-unicorns073-melodify.netlify.app/index.html/",
+      "link2": "https://github.com/ar98nab/Uber-Unicorns_073/",
+      "description": "Collaborated with a team of 5 to develop an online music streaming application, enhancing user experience through visually appealing interfaces. Implemented responsive design using HTML, CSS, and Bootstrap, ensuring optimal performance across various devices and browsers. Contributed to the development of playlist creation and favourite artist song list features, user engagement.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "HTML-CSS",
+          "color": "#fc2779"
+        },
+        {
+          "name": "JavaScript",
+          "color": "#ffbe0e"
+        },
+        {
+          "name": "Bootstrap",
+          "color": "#764abc"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Flawless Fusion Beauty",
+      "link": "https://joyful-torte-e35c94.netlify.app/",
+      "link2": "https://github.com/ritikamish/Sugar-Cosmetics-Clone",
+      "description": "Our team successfully replicated the Clone of Sugar Cosmetics webpage within 5 days, showcasing our web development and design proficiency. As a result, we received certificates of participation, recognizing our dedication and achievement in the project.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "HTML-CSS",
+          "color": "#fc2779"
+        },
+        {
+          "name": "Bootstrap",
+          "color": "#764abc"
+        },
+        {
+          "name": "Tailwind",
+          "color": "#10a4e6"
+        },
+        {
+          "name": "SASS",
+          "color": "#be6c98"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "mobile"
+    }
+  ]
+}

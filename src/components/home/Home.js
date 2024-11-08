@@ -49,7 +49,7 @@ const Home = () => {
           <Bounce cascade triggerOnce>
             <div className="resume-container">
               <a
-                href="https://drive.google.com/file/d/1X6mG6Sy_eUWIzF9M04fHoMwKrKm8jt3T/view?usp=sharing"
+                href="https://drive.google.com/file/d/1eNvtEmPthiPD7V7Na34CzN87rrdL5q5c/view"
                 target="_blank"
                 rel="noopener noreferrer"
               >

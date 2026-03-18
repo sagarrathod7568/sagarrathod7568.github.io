@@ -4,14 +4,15 @@
       "id": 1,
       "link": "https://www.infosys.com/",
       "company": "Infosys",
-      "location": "Pune - Maharashtra",
+      "location": "Pune, Maharashtra",
       "title": "System Engineer",
       "dateFrom": "Feb 2022",
       "dateTo": "Nov 2022",
       "info": [
-        "Developed and integrated front-end components using modern frameworks, enhancing user experience.",
-        "Collaborated with cross-functional teams to deliver efficient and scalable software solutions.",
-        "Completed comprehensive HTML-CSS, Java, JS, and React training, applying knowledge to project tasks and supporting backend needs."
+        "Developed and maintained responsive frontend components using HTML, CSS, and JavaScript, ensuring clean UI implementation and improved user experience.",
+        "Worked extensively with TIBCO Business Workspace, creating multiple integrations, schemas, and workflows for enterprise system automation.",
+        "Designed and implemented system integrations using SQL-based data handling, enabling smooth data exchange between enterprise applications.",
+        "Completed foundational training in Java, SQL, and web technologies as a fresher and collaborated with cross-functional teams to deliver reliable and scalable software solutions."
       ],
       "stack": [
         "HTML",
@@ -22,6 +23,36 @@
         "SQL",
         "Firebase",
         "TIBCO"
+      ],
+      "logowidth": 75,
+      "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.idexcel.com/",
+      "company": "Idexcel",
+      "location": "Bengaluru, Karnataka",
+      "title": "Software Engineer",
+      "dateFrom": "Dec 2024",
+      "dateTo": "Present",
+      "info": [
+        "Developed scalable frontend applications using React.js and built secure RESTful APIs with Node.js and Express, including backend integration and database schema design for enterprise applications.",
+        "Contributed to a regulatory-compliant Loan Origination System, ensuring secure data handling, optimized performance, and reliable microservices communication within a monorepo architecture",
+        "Debugged production issues using DOM inspection, browser DevTools, and AWS CloudWatch logs, identifying root causes and resolving critical runtime errors efficiently.",
+        "Managed multi-environment deployments (Dev, QA, UAT, Prod) using Git/GitHub workflows, pull requests, and AWS CI/CD pipelines, ensuring smooth and reliable application releases.",
+        "Tested and validated APIs using Postman, monitored network requests/responses, configured CORS for cross-origin communication, and improved code quality through Jest unit testing, code reviews, and Agile best practices."
+      ],
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Jest",
+        "Git/GitHub",
+        "Postman",
+        "AWS (CodePipeline, CloudWatch Logs)"
       ],
       "logowidth": 75,
       "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",

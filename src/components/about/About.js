@@ -83,9 +83,19 @@ const About = () => {
                 smooth={true}
                 duration={500}
               >
-                Infosys Ltd
+                Idexcel 
               </Link>{' '}
-              and worked with some great people.
+              and {' '}
+              <Link
+                className="textLink"
+                to="experience"
+                spy={true}
+                smooth={true}
+                duration={500}
+              >
+                 Infosys 
+              </Link>{' '}
+              collaborating with talented teams and contributing to impactful projects.
             </p>
             <div className="location-wrapper">
               <svg

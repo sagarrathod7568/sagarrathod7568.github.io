@@ -116,5 +116,12 @@
       "skillName": "Netlify",
       "class": "devicon-netlify-plain"
     }
+  ],
+
+  "softSkills": [
+    "Teamwork",
+    "Problem Solving",
+    "Effective Communication",
+    "Time Management"
   ]
 }

@@ -68,6 +68,18 @@ const MobileNav = ({ toggleMobilenavVisible, mobilenavVisible }) => {
               CONTACT
             </Link>
           </div>
+          <div className="mobilenavlink">
+            <Link
+              activeClass="active"
+              to="resume"
+              spy={true}
+              smooth={true}
+              duration={500}
+              onClick={toggleMobilenavVisible}
+            >
+              RESUME
+            </Link>
+          </div>
         </div>
       </div>
     </div>

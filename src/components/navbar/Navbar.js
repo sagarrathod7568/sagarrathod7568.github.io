@@ -47,6 +47,11 @@ const Navbar = () => {
             CONTACT
           </Link>
         </div>
+        <div className="navlink-wrapper">
+          <a href="https://drive.google.com/uc?export=download&id=1P2hn0jvaJOrYRh7iQZXzS0dMqFdOL7fM" style={{color: "white",textDecoration: "none",border: "none"}}>
+            <i className="fas fa-download"></i> RESUME
+          </a>
+        </div>
       </div>
       <div className="hamburger">
         <div

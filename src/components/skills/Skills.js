@@ -7,9 +7,10 @@ import './skills.css'
 
 const Skills = () => {
 	const skillsWrapper = useRef()
-	const { skills } = skillsData
+	const { skills, softSkills } = skillsData
 
 	return (
+		<>
 		<Section title="Skills">
 			<div className="skills-content">
 				<Fade duration={1000}>
@@ -48,7 +49,16 @@ const Skills = () => {
 				</Fade>
 			</div>
 		</Section>
-
+		<Section title="Soft Skills">
+			<div className="softskills-key">
+				<ul>
+				{softSkills.map((skill, i) => (
+					<li key={i}>{skill}</li>
+				))}
+				</ul>
+			</div>
+		</Section>
+		</>
 	)
 }
 

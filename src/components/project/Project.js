@@ -58,14 +58,14 @@ const Project = ({ project, type }) => {
             <div className="project-details-link">
               {project.link && (
                 <div className="project-info-right">
-                  <a href={project.link} target="_">
+                  <a href={project.link} target="_blank" rel="noopener noreferrer">
                     <img src={require('../../images/next.png')} alt="next" />
                   </a>
                 </div>
               )}
               {project.link2 && (
                 <div className="project-info-right">
-                  <a href={project.link2} target="_">
+                  <a href={project.link2} target="_blank" rel="noopener noreferrer">
                     <img src={require('../../images/www.png')} alt="next" />
                   </a>
                 </div>

@@ -48,10 +48,12 @@ const Home = () => {
           </h1>
           <Bounce cascade triggerOnce>
             <div className="resume-container">
-              <a href="https://drive.google.com/uc?export=download&id=1ChDhalcb5RTc2QCTN0UXiVpbqrJrQZ3M"
+              <a
+                href="https://drive.google.com/file/d/1ChDhalcb5RTc2QCTN0UXiVpbqrJrQZ3M/view"
                 target="_blank"
-                rel="noopener noreferrer">
-                <i className="fas fa-download"></i> Download Resume
+                rel="noopener noreferrer"
+              >
+                View Resume
               </a>
             </div>
           </Bounce>

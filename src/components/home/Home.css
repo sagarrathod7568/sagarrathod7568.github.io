@@ -61,6 +61,7 @@
   color: rgb(11, 231, 121);
 }
 .resume-container {
+  opacity: 1 !important;
   display: flex;
   align-items: center;
   justify-content: space-evenly;

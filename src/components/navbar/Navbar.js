@@ -48,7 +48,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navlink-wrapper">
-          <a href="https://drive.google.com/uc?export=download&id=1ChDhalcb5RTc2QCTN0UXiVpbqrJrQZ3M"
+          <a href="https://drive.google.com/file/d/1ChDhalcb5RTc2QCTN0UXiVpbqrJrQZ3M/view"
             target="_blank"
             rel="noopener noreferrer" style={{color: "white",textDecoration: "none",border: "none"}}>
             RESUME 🠋

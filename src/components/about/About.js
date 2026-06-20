@@ -15,30 +15,42 @@ const About = () => {
           <div className="about-text">
             <h2>Who am I?</h2>
             <p>
-              I'm Sagar{' '}
-              <span role="img" aria-label="lightning">
+              I'm <b>Sagar Rathod</b>{' '}
+              <span role="img" aria-label="smile">
                 😄
-              </span>{' '}
+              </span>
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              Hey! I'm a software engineer with a focus on Web Development along
-              with having knowledge of full-stack development. I am desperate on
-              learning new things from new people.
+              I'm a Software Engineer specializing in Frontend and Full Stack
+              Development with <b>2+ years of experience</b> building scalable,
+              responsive, and user-friendly web applications.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I have done <b>B.E.</b> from <b>JSPM Hadapsar, Pune</b>
+              I work primarily with{' '}
+              <b>
+                React.js, TypeScript, JavaScript, HTML5, CSS3, Node.js,
+                Express.js, MongoDB
+              </b>
+              , and modern web technologies to create high-performance
+              applications.
             </p>
+
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I work with HTML-CSS, React and javascript etc.
+              I have completed my{' '}
+              <b>
+                Bachelor of Engineering (B.E.) in Electronics and
+                Telecommunications
+              </b>{' '}
+              from <b>JSPM Hadapsar, Pune</b>.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -51,10 +63,10 @@ const About = () => {
                 options={{
                   strings: [
                     'learning new technologies',
+                    'building scalable applications',
                     'solving complex problems',
-                    'fixing hard-to-fix bugs',
-                    'trying new things',
-                    'collaborating with others',
+                    'fixing challenging bugs',
+                    'collaborating with teams',
                   ],
                   autoStart: true,
                   loop: true,
@@ -62,20 +74,18 @@ const About = () => {
               />
               <p>.</p>
             </div>
+
             <p>
-              I began my journey at Masai School to enhance my skills as a Web
-              stack developer, dedicating my time to exploring and mastering new
-              technologies in web application development and{' '}
-              <Link
-                className="textLink"
-                to="projects"
-                spy={true}
-                smooth={true}
-                duration={500}
-              >
-                Projects
-              </Link>
-              , worked at{' '}
+              Throughout my professional journey, I have worked with modern
+              development practices including RESTful API integration, testing
+              with Jest and React Testing Library, debugging production issues
+              using Chrome DevTools and AWS CloudWatch, and managing deployments
+              through Git/GitHub and AWS CI/CD pipelines.
+            </p>
+
+            <p>
+              I started my development journey at Masai School and have since
+              worked at{' '}
               <Link
                 className="textLink"
                 to="experience"
@@ -83,9 +93,9 @@ const About = () => {
                 smooth={true}
                 duration={500}
               >
-                Idexcel 
+                Idexcel
               </Link>{' '}
-              and {' '}
+              and{' '}
               <Link
                 className="textLink"
                 to="experience"
@@ -93,9 +103,10 @@ const About = () => {
                 smooth={true}
                 duration={500}
               >
-                 Infosys 
+                Infosys
               </Link>{' '}
-              collaborating with talented teams and contributing to impactful projects.
+              where I collaborated with talented teams and contributed to
+              impactful projects.
             </p>
             <div className="location-wrapper">
               <svg
@@ -112,7 +123,7 @@ const About = () => {
                   d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"
                 ></path>
               </svg>
-              <p>Pune-Maharashtra, India</p>
+              <p>Pune, Maharashtra, India</p>
             </div>
           </div>
         </Fade>

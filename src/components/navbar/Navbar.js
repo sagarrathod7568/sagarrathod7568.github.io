@@ -48,9 +48,12 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navlink-wrapper">
-          <a href="https://drive.google.com/file/d/1ChDhalcb5RTc2QCTN0UXiVpbqrJrQZ3M/view"
+          <a
+            href="https://drive.google.com/file/d/1qvGu4vykhD8RbPvf1yoFUX4KwdQ4ZZEQ/view?usp=sharing"
             target="_blank"
-            rel="noopener noreferrer" style={{color: "white",textDecoration: "none",border: "none"}}>
+            rel="noopener noreferrer"
+            style={{ color: 'white', textDecoration: 'none', border: 'none' }}
+          >
             RESUME 🠋
           </a>
         </div>

@@ -1,6 +1,36 @@
 {
   "featured_projects": [
     {
+      "name": "Task Management System",
+      "link": "https://avidus-eta.vercel.app/",
+      "link2": "https://github.com/sagarrathod7568/Task-Management-System",
+      "description": " Developed a full-stack Task Management application with role-based access control for Admin and User roles. Implemented secure JWT-based authentication, protected routes, and authorisation mechanisms for user access management. Built RESTful APIs using Express.js and MongoDB to support task creation, status updates, deletion, and activity tracking. Designed a responsive and user-friendly interface using React.js and Bootstrap, with Axios integration and global API loading states.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        {
+          "name": "React",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Bootstrap",
+          "color": "#764abc"
+        },
+        {
+          "name": "MongoDB",
+          "color": "#47bb78"
+        },
+        {
+          "name": "Node.js / Express",
+          "color": "#008000"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
       "name": "Health and Wellness",
       "link": "https://pixel-pole-vault-040.vercel.app/",
       "link2": "https://github.com/sagarrathod7568/Health-and-Wellness-App",
@@ -85,36 +115,6 @@
         }
       ],
       "type": "web"
-    },
-    {
-      "name": "Flawless Fusion Beauty",
-      "link": "https://joyful-torte-e35c94.netlify.app/",
-      "link2": "https://github.com/ritikamish/Sugar-Cosmetics-Clone",
-      "description": "Our team successfully replicated the Clone of Sugar Cosmetics webpage within 5 days, showcasing our web development and design proficiency. As a result, we received certificates of participation, recognizing our dedication and achievement in the project.",
-      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
-      "languages": [
-        {
-          "name": "HTML-CSS",
-          "color": "#fc2779"
-        },
-        {
-          "name": "Bootstrap",
-          "color": "#764abc"
-        },
-        {
-          "name": "Tailwind",
-          "color": "#10a4e6"
-        },
-        {
-          "name": "SASS",
-          "color": "#be6c98"
-        },
-        {
-          "name": "GitHub",
-          "color": "#131618"
-        }
-      ],
-      "type": "mobile"
     }
   ]
 }

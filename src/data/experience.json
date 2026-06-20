@@ -29,13 +29,13 @@
       "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
     },
     {
-      "id": 1,
+      "id": 2,
       "link": "https://www.idexcel.com/",
       "company": "Idexcel",
       "location": "Bengaluru, Karnataka",
       "title": "Software Engineer",
       "dateFrom": "Dec 2024",
-      "dateTo": "Present",
+      "dateTo": "Mar 2026",
       "info": [
         "Developed scalable frontend applications using React.js and built secure RESTful APIs with Node.js and Express, including backend integration and database schema design for enterprise applications.",
         "Contributed to a regulatory-compliant Loan Origination System, ensuring secure data handling, optimized performance, and reliable microservices communication within a monorepo architecture",

@@ -1,6 +1,36 @@
 {
   "featured_projects": [
     {
+      "name": "TalentHub Job Board",
+      "link": "https://job-board-nine-mauve.vercel.app/",
+      "link2": "https://github.com/sagarrathod7568/Job-Board",
+      "description": "Developed a full-stack TalentHub Job Board using React.js, Node.js, Express.js, and MongoDB Atlas, enabling users to search, view, save, apply for, and post job listings. Implemented Google OAuth authentication, JWT-based authorisation, protected routes, secure user session management, dynamic search, bookmarking, application tracking, and dark/light mode. Deployed the frontend on Vercel and the backend on Render, integrating GitHub Actions CI/CD for automated builds and deployments.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        {
+          "name": "React",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Tailwind CSS",
+          "color": "#4bb1d3"
+        },
+        {
+          "name": "MongoDB",
+          "color": "#47bb78"
+        },
+        {
+          "name": "Node.js / Express",
+          "color": "#008000"
+        },
+        {
+          "name": "GitHub",
+          "color": "#131618"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
       "name": "Task Management System",
       "link": "https://avidus-eta.vercel.app/",
       "link2": "https://github.com/sagarrathod7568/Task-Management-System",

@@ -49,7 +49,7 @@ const Navbar = () => {
         </div>
         <div className="navlink-wrapper">
           <a
-            href="https://drive.google.com/file/d/1qvGu4vykhD8RbPvf1yoFUX4KwdQ4ZZEQ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1UTkQya7kM05nBKwRInYq37D125KEN6Bz/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: 'white', textDecoration: 'none', border: 'none' }}
